@@ -1,0 +1,23 @@
+{
+  "repo": "kicad-advanced",
+  "product": "KiCad Advanced",
+  "kind": "cad",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "engineering-cad",
+  "topics": [
+    "kicad",
+    "kicad-windows",
+    "engineering-cad-desktop",
+    "how-to-install-kicad",
+    "kicad-desktop-package",
+    "kicad-workspace",
+    "kicad-pro-tools",
+    "kicad-suite",
+    "zentool-kicad",
+    "kicad-tool-9"
+  ],
+  "site": "zentool.art"
+}
